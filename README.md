@@ -3,17 +3,17 @@
 
 ### Available 👇
 <p>
-  <a href="https://www.linkedin.com/in/vandit-vasa-bb506317a/">
-    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.youtube.com/channel/UCuLBZfvfWJnis-L4XCgdTQA?view_as=subscriber">
+    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
   <a href="https://twitter.com/vandit_vasa">
     <img align="left" alt="Sumanjay Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
-  <a href="https://www.youtube.com/channel/UCuLBZfvfWJnis-L4XCgdTQA?view_as=subscriber">
-    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-  </a>
   <a href="https://www.instagram.com/vandit_vasa/">
     <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/vandit-vasa-bb506317a/">
+    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
    <a href="https://www.quora.com/profile/Vandit-Vasa-1">
   <img align="left" alt="Sumanjay Quora" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/quora.svg" />
