@@ -31,7 +31,7 @@
 ### About 🙋🏻‍♂️
 ```python
 name = "vandit"
-who_i_am = ['Coder','Engineer','Student','Noobie']
+who_i_am = ['Coder','Nerd','Student','Noobie']
 age = 18
 religion = "🇮🇳"
 ```
