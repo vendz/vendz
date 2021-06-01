@@ -9,4 +9,4 @@
 Passionate about **Python/Java/Flutter**. Likes to write code. **Scroll down!**
 
 
-[![vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vendz&show_icons=true&theme=tokyonight)](https://github.com/vendz)
+[![vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vendz&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/vendz)
