@@ -1,14 +1,51 @@
-<img align="left" src="https://i.imgur.com/mU47EiJ.png">
+```bash
+$ whoami
+> vandit vasa
 
-[![linkedin](https://img.shields.io/badge/-@vandit%20vasa-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/vandit-vasa-bb506317a/)  
-[![instagram](https://img.shields.io/badge/-vandit__vasa-313131?style=flat-square&labelColor=313131&logo=instagram&logoColor=white&color=313131)](https://www.instagram.com/vandit_vasa/)   
-[![twitter](https://img.shields.io/badge/-@vandit__vasa-313131?style=flat-square&labelColor=313131&logo=x&logoColor=white&color=313131)](https://twitter.com/vandit_vasa)  
-[![youtube](https://img.shields.io/badge/-Vandit%20Vasa-313131?style=flat-square&labelColor=313131&logo=youtube&logoColor=white&color=313131)](https://www.youtube.com/channel/UCuLBZfvfWJnis-L4XCgdTQA)
+$ cat /etc/role
+> ai engineer
 
+$ uptime
+> alive, over-caffeinated, building lux
+```
 
-Passionate about **Backend Development**. Likes to write code. **Scroll down!**
+<br>
 
+> i build the half of AI that doesn't have a demo video.
+> the half that fuses signals you didn't know you were sending.
+> the half that's supposed to know what you need before you do.
 
-[![vandit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vendz&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/vendz)
+<br>
 
-[![vandit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vendz&layout=compact&theme=tokyonight)](https://github.com/vendz)
+```json
+{
+  "currently_obsessed_with": "making AI proactive instead of reactive",
+  "what_i_actually_do":      "teach machines to read between the lines",
+  "tools_i_reach_for":       ["python", "pytorch", "node", "react native", "postgres"],
+  "thing_i_believe":         "you shouldn't have to ask for information you already needed",
+  "thing_i_distrust":        "any system that waits to be told what to do",
+  "dirty_secret":            "half my best ideas came from reading someone else's related work section"
+}
+```
+
+<br>
+
+```
+  ┌──────────────────────┐
+  │                      │ ──▶  formalizing the lux problem statement
+  │   currently online   │ ──▶  reading papers on proactive retrieval
+  │                      │ ──▶  pretending the math will simplify later
+  └──────────────────────┘
+```
+
+<br>
+
+<samp>find me →</samp>
+[linkedin](https://www.linkedin.com/in/vandit-vasa-bb506317a/) ·
+[twitter](https://twitter.com/vandit_vasa) ·
+[youtube](https://www.youtube.com/channel/UCuLBZfvfWJnis-L4XCgdTQA) ·
+[instagram](https://www.instagram.com/vandit_vasa/)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vendz&layout=compact&theme=transparent&hide_border=true&card_width=320)
