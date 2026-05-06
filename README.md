@@ -45,7 +45,3 @@ $ uptime
 [twitter](https://twitter.com/vandit_vasa) ·
 [youtube](https://www.youtube.com/channel/UCuLBZfvfWJnis-L4XCgdTQA) ·
 [instagram](https://www.instagram.com/vandit_vasa/)
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vendz&layout=compact&theme=transparent&hide_border=true&card_width=320)
